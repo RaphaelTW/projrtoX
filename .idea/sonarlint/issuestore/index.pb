@@ -1,3 +1,25 @@
 
 P
  gerenciador-projetox/src/App.css,7\4\74cd557d9dc3ee3aa456182ae809faa7fe7bcf2a
+Q
+!gerenciador-projetox/src/logo.svg,f\4\f44bb114beb7e924972826066a303eeeb6cfe877
+[
++gerenciador-projetox/src/reportWebVitals.js,1\c\1c1ca37c466b5accf0de9da25fbcebcb3cc020c7
+N
+gerenciador-projetox/README.md,c\8\c8b20503ba747af0c93802231eefcad0ebe227b1
+Q
+!gerenciador-projetox/src/index.js,2\e\2ec2fa2ca98f5324e7df4a5bed9a5de9dcb71ded
+V
+&gerenciador-projetox/src/setupTests.js,e\6\e674545485ac15c3a816e9aec030d365b41903c6
+O
+gerenciador-projetox/.gitignore,3\d\3d289ed414933897d31ec218e8f2ccf918462e37
+Q
+!gerenciador-projetox/package.json,f\3\f38b9799ab09881c9d3b272d604d02bc5479cbae
+V
+&gerenciador-projetox/package-lock.json,1\d\1dec74fac62d64bb15ad5930e5f247406de9a2ee
+`
+0gerenciador-projetox/src/components/SayMyName.js,5\8\5823727f5fdde94a984132c892b62976c4aba91c
+a
+1gerenciador-projetox/src/components/HelloWorld.js,7\4\74877c8e8f0c278605f974a872bfc4e74889ee98
+V
+&gerenciador-projetox/public/index.html,c\e\ce4c1ac1dbb01f92c7e9ba4575273f8dab3ef59f
