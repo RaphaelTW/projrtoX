@@ -5,8 +5,6 @@ Q
 !gerenciador-projetox/src/logo.svg,f\4\f44bb114beb7e924972826066a303eeeb6cfe877
 [
 +gerenciador-projetox/src/reportWebVitals.js,1\c\1c1ca37c466b5accf0de9da25fbcebcb3cc020c7
-N
-gerenciador-projetox/README.md,c\8\c8b20503ba747af0c93802231eefcad0ebe227b1
 Q
 !gerenciador-projetox/src/index.js,2\e\2ec2fa2ca98f5324e7df4a5bed9a5de9dcb71ded
 V
