@@ -21,13 +21,5 @@ a
 1gerenciador-projetox/src/components/HelloWorld.js,7\4\74877c8e8f0c278605f974a872bfc4e74889ee98
 V
 &gerenciador-projetox/public/index.html,c\e\ce4c1ac1dbb01f92c7e9ba4575273f8dab3ef59f
-O
-gerenciador-projetox/src/App.js,5\8\589f6e34093006a0f2098def7acd37f60d727055
-R
-"gerenciador-projetox/src/index.css,9\6\96f48f1d27e88dafb9815f639258c0c005d3a4b2
-e
-5gerenciador-projetox/src/components/Pessoa.module.css,8\6\861f19d29b720c9068193ff3cb3f7a9b8d1cf3b1
 N
 gerenciador-projetox/README.md,c\8\c8b20503ba747af0c93802231eefcad0ebe227b1
-]
--gerenciador-projetox/src/components/Pessoa.js,7\5\7572c8697349bc02d032f012029680603bdd1746
